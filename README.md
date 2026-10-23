@@ -14,6 +14,11 @@ in the header links between them.
 - <code>.html — one page per language
 - logo.png    — shared logo
 
+## Enquiry form
+Every page has an enquiry form (Name, Age, Height, Weight, City, Mobile).
+On submit it opens WhatsApp with all the details pre-filled, addressed to
++91 96909 80001. No server, database or third-party service is required.
+
 ## Hosting on GitHub Pages
 1. Create a new public repository.
 2. Upload every file in this folder to the repository root.
